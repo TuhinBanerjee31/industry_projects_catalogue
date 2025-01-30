@@ -5,6 +5,7 @@ import { portInfrastructureProjects } from "./data/portInfrastructureProjects";
 import { solarEnergyProjects } from "./data/solarEnergyProjects";
 import { thermalEnergyProjects } from "./data/thermalEnergyProjects";
 import { windEnergyProjects } from "./data/windEnergyProjects";
+import { newProjects } from "./data/newProjects";
 
 function App() {
   const initialData = [
@@ -13,6 +14,7 @@ function App() {
     ...solarEnergyProjects,
     ...thermalEnergyProjects,
     ...windEnergyProjects,
+    ...newProjects,
   ];
 
   const initialCategories = [
