@@ -1,13 +1,13 @@
 import { useState } from "react";
 import Projects from "./Projects";
-import AllCertifications from "./ALLCertifications";
+// import AllCertifications from "./ALLCertifications";
 import Designation from "./Designation";
 
 function Home() {
   const [tab, setTab] = useState("1");
 
   const tabs = [
-    { id: "1", label: "Certifications(Oil & Gas)" },
+    { id: "1", label: "Projects" },
     { id: "2", label: "Designation(JD with Questions)" },
     // { id: "4", label: "Certifications(All)" },
   ];
