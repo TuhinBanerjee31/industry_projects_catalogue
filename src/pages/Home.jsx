@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Projects from "./Projects";
-// import AllCertifications from "./ALLCertifications";
+import AllCertifications from "./ALLCertifications";
 import Designation from "./Designation";
 
 function Home() {
@@ -9,7 +9,7 @@ function Home() {
   const tabs = [
     { id: "1", label: "Projects" },
     { id: "2", label: "Designation(JD with Questions)" },
-    // { id: "4", label: "Certifications(All)" },
+    { id: "4", label: "Certifications(Designation-wise)" },
   ];
 
   return (
@@ -34,7 +34,7 @@ function Home() {
       <div className="p-6 bg-gray-50 min-h-[90vh]">
         {tab === "1" && <Projects />}
         {tab === "2" && <Designation />}
-        {/* {tab === "4" && <AllCertifications />} */}
+        {tab === "4" && <AllCertifications />}
       </div>
     </>
   );
