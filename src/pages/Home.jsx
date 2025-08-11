@@ -2,13 +2,15 @@ import { useState } from "react";
 import Projects from "./Projects";
 import AllCertifications from "./ALLCertifications";
 import Designation from "./Designation";
+import IntProjects from "./IntProjects";
 
 function Home() {
   const [tab, setTab] = useState("1");
 
   const tabs = [
-    { id: "1", label: "Projects" },
+    { id: "1", label: "Projects (India)" },
     { id: "2", label: "Designation(JD with Questions)" },
+    { id: "3", label: "Projects (International)" },
     { id: "4", label: "Certifications(Designation-wise)" },
   ];
 
@@ -34,6 +36,7 @@ function Home() {
       <div className="p-6 bg-gray-50 min-h-[90vh]">
         {tab === "1" && <Projects />}
         {tab === "2" && <Designation />}
+        {tab === "3" && <IntProjects />}
         {tab === "4" && <AllCertifications />}
       </div>
     </>
