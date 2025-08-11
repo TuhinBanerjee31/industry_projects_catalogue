@@ -4,6 +4,8 @@ export const windEnergyProjects = [
     name: "Jaisalmer Wind Power Project",
     category: "Wind Energy",
     location: "Rajasthan",
+    exact_address:
+      "Suzlon Wind Farm, Amarsagar, Jaisalmer District, Rajasthan 345001, India",
     description: "A 300 MW wind energy project under construction.",
     budget: "₹2500 Cr - ₹2900 Cr",
     area: "500-600 acres",
@@ -14,6 +16,7 @@ export const windEnergyProjects = [
     name: "Kutch Wind Power Project",
     category: "Wind Energy",
     location: "Gujarat",
+    exact_address: "Kutch Wind Farms, Kutch District, Gujarat 370421, India",
     description: "A 250 MW wind energy project under construction.",
     budget: "₹2100 Cr - ₹2500 Cr",
     area: "400-500 acres",
@@ -24,6 +27,8 @@ export const windEnergyProjects = [
     name: "Jamnagar Wind Energy Park",
     category: "Wind Energy",
     location: "Gujarat",
+    exact_address:
+      "Jamnagar Wind Park, Jamnagar District, Gujarat 361006, India",
     description: "Wind energy project with 150 MW capacity under development.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "250-300 acres",
@@ -34,6 +39,8 @@ export const windEnergyProjects = [
     name: "Tamil Nadu Wind Power Project",
     category: "Wind Energy",
     location: "Tamil Nadu",
+    exact_address:
+      "Muppandal Wind Farm, Kanyakumari District, Tamil Nadu 629158, India",
     description:
       "A large-scale wind power project under construction with 500 MW.",
     budget: "₹4150 Cr - ₹5000 Cr",
@@ -45,6 +52,8 @@ export const windEnergyProjects = [
     name: "Gandhinagar Wind Power Project",
     category: "Wind Energy",
     location: "Gujarat",
+    exact_address:
+      "Gandhinagar Wind Project Site, Gandhinagar District, Gujarat 382007, India",
     description:
       "Wind farm development with a 100 MW capacity under construction.",
     budget: "₹850 Cr - ₹1250 Cr",
@@ -56,6 +65,8 @@ export const windEnergyProjects = [
     name: "Kurnool Wind Power Park",
     category: "Wind Energy",
     location: "Andhra Pradesh",
+    exact_address:
+      "Kurnool Wind Park, Kurnool District, Andhra Pradesh 518001, India",
     description: "A 250 MW wind power project under development.",
     budget: "₹2100 Cr - ₹2500 Cr",
     area: "400-500 acres",
@@ -66,6 +77,8 @@ export const windEnergyProjects = [
     name: "Maharashtra Wind Energy Project",
     category: "Wind Energy",
     location: "Maharashtra",
+    exact_address:
+      "Satara Wind Farm, Satara District, Maharashtra 415001, India",
     description: "Wind energy project with 150 MW under development.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "250-300 acres",
@@ -76,6 +89,8 @@ export const windEnergyProjects = [
     name: "Rajasthan Wind Energy Project",
     category: "Wind Energy",
     location: "Rajasthan",
+    exact_address:
+      "Jaisalmer Wind Park, Jaisalmer District, Rajasthan 345001, India",
     description: "Wind project under construction with 200 MW capacity.",
     budget: "₹1700 Cr - ₹2100 Cr",
     area: "300-400 acres",
@@ -86,6 +101,8 @@ export const windEnergyProjects = [
     name: "Bijapur Wind Power Project",
     category: "Wind Energy",
     location: "Karnataka",
+    exact_address:
+      "Vijayapura Wind Farm, Vijayapura District, Karnataka 586101, India",
     description: "A wind energy project under construction with 100 MW.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -96,6 +113,7 @@ export const windEnergyProjects = [
     name: "Patan Wind Power Project",
     category: "Wind Energy",
     location: "Gujarat",
+    exact_address: "Patan Wind Park, Patan District, Gujarat 384265, India",
     description: "150 MW wind power plant under construction.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -106,6 +124,8 @@ export const windEnergyProjects = [
     name: "Chitradurga Wind Power Project",
     category: "Wind Energy",
     location: "Karnataka",
+    exact_address:
+      "Chitradurga Wind Farm, Chitradurga District, Karnataka 577501, India",
     description: "Wind energy project under development with 100 MW capacity.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -116,6 +136,7 @@ export const windEnergyProjects = [
     name: "Rajkot Wind Energy Project",
     category: "Wind Energy",
     location: "Gujarat",
+    exact_address: "Rajkot Wind Farm, Rajkot District, Gujarat 360003, India",
     description: "A wind power park under construction with a 200 MW capacity.",
     budget: "₹1700 Cr - ₹2100 Cr",
     area: "300-400 acres",
@@ -126,6 +147,8 @@ export const windEnergyProjects = [
     name: "Anantapur Wind Power Project",
     category: "Wind Energy",
     location: "Andhra Pradesh",
+    exact_address:
+      "Anantapur Wind Farm, Anantapuramu District, Andhra Pradesh 515001, India",
     description: "A 100 MW wind project under construction.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -136,6 +159,8 @@ export const windEnergyProjects = [
     name: "Tumkur Wind Power Project",
     category: "Wind Energy",
     location: "Karnataka",
+    exact_address:
+      "Tumakuru Wind Farm, Tumakuru District, Karnataka 572101, India",
     description: "150 MW wind power park under construction.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -146,6 +171,8 @@ export const windEnergyProjects = [
     name: "Vapi Wind Power Project",
     category: "Wind Energy",
     location: "Gujarat",
+    exact_address:
+      "Vapi Wind Project Site, Valsad District, Gujarat 396191, India",
     description: "Wind power project under development with 100 MW capacity.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -156,7 +183,10 @@ export const windEnergyProjects = [
     name: "Vellore Wind Power Project",
     category: "Wind Energy",
     location: "Tamil Nadu",
-    description: "A wind power project under construction with 150 MW capacity.",
+    exact_address:
+      "Vellore Wind Project Site, Vellore District, Tamil Nadu 632001, India",
+    description:
+      "A wind power project under construction with 150 MW capacity.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
     deadline: "2034",
@@ -166,6 +196,8 @@ export const windEnergyProjects = [
     name: "Khavda Wind Power Project",
     category: "Wind Energy",
     location: "Gujarat",
+    exact_address:
+      "Khavda Renewable Energy Park, Kutch District, Gujarat 370510, India",
     description: "Wind energy project under development with 100 MW capacity.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -176,7 +208,10 @@ export const windEnergyProjects = [
     name: "Patiala Wind Power Project",
     category: "Wind Energy",
     location: "Punjab",
-    description: "Wind energy project under construction with a capacity of 200 MW.",
+    exact_address:
+      "Patiala Wind Project Site, Patiala District, Punjab 147001, India",
+    description:
+      "Wind energy project under construction with a capacity of 200 MW.",
     budget: "₹1700 Cr - ₹2100 Cr",
     area: "300-400 acres",
     deadline: "2030",
@@ -186,6 +221,8 @@ export const windEnergyProjects = [
     name: "Ganga Wind Energy Project",
     category: "Wind Energy",
     location: "Uttar Pradesh",
+    exact_address:
+      "Ganga Wind Project Site, Bijnor District, Uttar Pradesh 246701, India",
     description: "Wind farm with 100 MW under construction.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -196,6 +233,8 @@ export const windEnergyProjects = [
     name: "Kota Wind Power Project",
     category: "Wind Energy",
     location: "Rajasthan",
+    exact_address:
+      "Kota Wind Project Site, Kota District, Rajasthan 324001, India",
     description: "Wind energy project with 150 MW capacity under construction.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -206,6 +245,8 @@ export const windEnergyProjects = [
     name: "Guntur Wind Power Project",
     category: "Wind Energy",
     location: "Andhra Pradesh",
+    exact_address:
+      "Guntur Wind Project Site, Guntur District, Andhra Pradesh 522002, India",
     description: "A 200 MW wind power project under construction.",
     budget: "₹1700 Cr - ₹2100 Cr",
     area: "300-400 acres",
@@ -216,6 +257,8 @@ export const windEnergyProjects = [
     name: "Jammu & Kashmir Wind Project",
     category: "Wind Energy",
     location: "Jammu & Kashmir",
+    exact_address:
+      "Jammu Wind Project Site, Jammu District, Jammu and Kashmir 180001, India",
     description: "100 MW wind power plant under construction.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -226,6 +269,8 @@ export const windEnergyProjects = [
     name: "Madhya Pradesh Wind Energy Project",
     category: "Wind Energy",
     location: "Madhya Pradesh",
+    exact_address:
+      "Dewas Wind Farm, Dewas District, Madhya Pradesh 455001, India",
     description: "Wind power park with 150 MW under construction.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -236,6 +281,8 @@ export const windEnergyProjects = [
     name: "Lucknow Wind Power Project",
     category: "Wind Energy",
     location: "Uttar Pradesh",
+    exact_address:
+      "Lucknow Wind Project Site, Lucknow District, Uttar Pradesh 226001, India",
     description: "Wind power project with 100 MW capacity under construction.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -246,6 +293,8 @@ export const windEnergyProjects = [
     name: "Alwar Wind Energy Project",
     category: "Wind Energy",
     location: "Rajasthan",
+    exact_address:
+      "Alwar Wind Project Site, Alwar District, Rajasthan 301001, India",
     description: "100 MW wind energy project under development.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -256,6 +305,8 @@ export const windEnergyProjects = [
     name: "Gandhinagar Wind Power Park",
     category: "Wind Energy",
     location: "Gujarat",
+    exact_address:
+      "Gandhinagar Wind Project Site, Gandhinagar District, Gujarat 382007, India",
     description: "Wind energy project under development with 200 MW.",
     budget: "₹1700 Cr - ₹2100 Cr",
     area: "300-400 acres",
@@ -266,6 +317,8 @@ export const windEnergyProjects = [
     name: "Faridabad Wind Power Project",
     category: "Wind Energy",
     location: "Haryana",
+    exact_address:
+      "Faridabad Wind Project Site, Faridabad District, Haryana 121001, India",
     description: "A wind farm with a capacity of 150 MW under construction.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -276,7 +329,10 @@ export const windEnergyProjects = [
     name: "Udupi Wind Power Project",
     category: "Wind Energy",
     location: "Karnataka",
-    description: "A wind energy project with 150 MW capacity under construction.",
+    exact_address:
+      "Udupi Wind Project Site, Udupi District, Karnataka 576101, India",
+    description:
+      "A wind energy project with 150 MW capacity under construction.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
     deadline: "2034",
@@ -286,6 +342,8 @@ export const windEnergyProjects = [
     name: "Pithoragarh Wind Power Project",
     category: "Wind Energy",
     location: "Uttarakhand",
+    exact_address:
+      "Pithoragarh Wind Project Site, Pithoragarh District, Uttarakhand 262501, India",
     description: "Wind power park with 100 MW under construction.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -296,6 +354,8 @@ export const windEnergyProjects = [
     name: "Mysore Wind Power Project",
     category: "Wind Energy",
     location: "Karnataka",
+    exact_address:
+      "Mysuru Wind Project Site, Mysuru District, Karnataka 570001, India",
     description: "Wind project under development with 150 MW capacity.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -306,6 +366,8 @@ export const windEnergyProjects = [
     name: "Bikaner Wind Power Project",
     category: "Wind Energy",
     location: "Rajasthan",
+    exact_address:
+      "Bikaner Wind Project Site, Bikaner District, Rajasthan 334001, India",
     description: "100 MW wind farm under development.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -316,6 +378,8 @@ export const windEnergyProjects = [
     name: "Bhiwani Wind Power Project",
     category: "Wind Energy",
     location: "Haryana",
+    exact_address:
+      "Bhiwani Wind Project Site, Bhiwani District, Haryana 127021, India",
     description: "Wind energy project under construction with 100 MW.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -326,6 +390,8 @@ export const windEnergyProjects = [
     name: "Chhattisgarh Wind Energy Project",
     category: "Wind Energy",
     location: "Chhattisgarh",
+    exact_address:
+      "Chhattisgarh Wind Project Site, Raipur District, Chhattisgarh 492001, India",
     description: "200 MW wind energy project under construction.",
     budget: "₹1700 Cr - ₹2100 Cr",
     area: "300-400 acres",
@@ -336,6 +402,8 @@ export const windEnergyProjects = [
     name: "Gajendran Wind Power Project",
     category: "Wind Energy",
     location: "Tamil Nadu",
+    exact_address:
+      "Gajendran Wind Farm, Theni District, Tamil Nadu 625531, India",
     description: "Wind power project under development with 150 MW capacity.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -346,6 +414,8 @@ export const windEnergyProjects = [
     name: "Jhansi Wind Power Project",
     category: "Wind Energy",
     location: "Uttar Pradesh",
+    exact_address:
+      "Jhansi Wind Project Site, Jhansi District, Uttar Pradesh 284001, India",
     description: "Wind energy project under construction with 200 MW.",
     budget: "₹1700 Cr - ₹2100 Cr",
     area: "300-400 acres",
@@ -356,6 +426,8 @@ export const windEnergyProjects = [
     name: "Alappuzha Wind Power Project",
     category: "Wind Energy",
     location: "Kerala",
+    exact_address:
+      "Alappuzha Wind Project Site, Alappuzha District, Kerala 688001, India",
     description: "Wind energy project under development with 100 MW.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -366,6 +438,8 @@ export const windEnergyProjects = [
     name: "Visakhapatnam Wind Energy Project",
     category: "Wind Energy",
     location: "Andhra Pradesh",
+    exact_address:
+      "Visakhapatnam Wind Project Site, Visakhapatnam District, Andhra Pradesh 530001, India",
     description: "250 MW wind farm under construction.",
     budget: "₹2100 Cr - ₹2500 Cr",
     area: "400-500 acres",
@@ -376,6 +450,8 @@ export const windEnergyProjects = [
     name: "Mangalore Wind Power Project",
     category: "Wind Energy",
     location: "Karnataka",
+    exact_address:
+      "Mangalore Wind Project Site, Dakshina Kannada District, Karnataka 575001, India",
     description: "150 MW wind power park under construction.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -386,6 +462,8 @@ export const windEnergyProjects = [
     name: "Surat Wind Energy Project",
     category: "Wind Energy",
     location: "Gujarat",
+    exact_address:
+      "Surat Wind Project Site, Surat District, Gujarat 395003, India",
     description: "A wind energy project under construction with 250 MW.",
     budget: "₹2100 Cr - ₹2500 Cr",
     area: "400-500 acres",
@@ -396,6 +474,8 @@ export const windEnergyProjects = [
     name: "Shimla Wind Power Project",
     category: "Wind Energy",
     location: "Himachal Pradesh",
+    exact_address:
+      "Shimla Wind Project Site, Shimla District, Himachal Pradesh 171001, India",
     description: "100 MW wind energy project under development.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -406,6 +486,8 @@ export const windEnergyProjects = [
     name: "Mansa Wind Power Project",
     category: "Wind Energy",
     location: "Gujarat",
+    exact_address:
+      "Mansa Wind Project Site, Gandhinagar District, Gujarat 382845, India",
     description: "Wind power project with 200 MW capacity under construction.",
     budget: "₹1700 Cr - ₹2100 Cr",
     area: "300-400 acres",
@@ -416,6 +498,8 @@ export const windEnergyProjects = [
     name: "Rajnandgaon Wind Energy Project",
     category: "Wind Energy",
     location: "Chhattisgarh",
+    exact_address:
+      "Rajnandgaon Wind Project Site, Rajnandgaon District, Chhattisgarh 491441, India",
     description: "Wind power project with 150 MW capacity under construction.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -426,6 +510,8 @@ export const windEnergyProjects = [
     name: "Bidar Wind Power Project",
     category: "Wind Energy",
     location: "Karnataka",
+    exact_address:
+      "Bidar Wind Project Site, Bidar District, Karnataka 585401, India",
     description: "Wind power plant under development with 100 MW capacity.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -436,6 +522,8 @@ export const windEnergyProjects = [
     name: "Ballabgarh Wind Power Project",
     category: "Wind Energy",
     location: "Haryana",
+    exact_address:
+      "Ballabgarh Wind Project Site, Faridabad District, Haryana 121004, India",
     description: "Wind farm project under construction with 150 MW.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -446,6 +534,8 @@ export const windEnergyProjects = [
     name: "Sikar Wind Power Project",
     category: "Wind Energy",
     location: "Rajasthan",
+    exact_address:
+      "Sikar Wind Project Site, Sikar District, Rajasthan 332001, India",
     description: "100 MW wind energy project under development.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -456,6 +546,8 @@ export const windEnergyProjects = [
     name: "Ludhiana Wind Power Project",
     category: "Wind Energy",
     location: "Punjab",
+    exact_address:
+      "Ludhiana Wind Project Site, Ludhiana District, Punjab 141001, India",
     description: "Wind energy project under construction with 150 MW.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -466,7 +558,10 @@ export const windEnergyProjects = [
     name: "Jodhpur Wind Power Project",
     category: "Wind Energy",
     location: "Rajasthan",
-    description: "A wind energy project with a 200 MW capacity under development.",
+    exact_address:
+      "Jodhpur Wind Farm, Jodhpur District, Rajasthan 342001, India",
+    description:
+      "A wind energy project with a 200 MW capacity under development.",
     budget: "₹1700 Cr - ₹2100 Cr",
     area: "300-400 acres",
     deadline: "2034",
@@ -476,6 +571,8 @@ export const windEnergyProjects = [
     name: "Solapur Wind Power Project",
     category: "Wind Energy",
     location: "Maharashtra",
+    exact_address:
+      "Solapur Wind Farm, Solapur District, Maharashtra 413001, India",
     description: "Wind power plant under development with 100 MW capacity.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -486,6 +583,8 @@ export const windEnergyProjects = [
     name: "Dehradun Wind Power Project",
     category: "Wind Energy",
     location: "Uttarakhand",
+    exact_address:
+      "Dehradun Wind Project Site, Dehradun District, Uttarakhand 248001, India",
     description: "Wind project with 100 MW capacity under construction.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -496,6 +595,8 @@ export const windEnergyProjects = [
     name: "Rohtak Wind Power Project",
     category: "Wind Energy",
     location: "Haryana",
+    exact_address:
+      "Rohtak Wind Project Site, Rohtak District, Haryana 124001, India",
     description: "100 MW wind energy project under construction.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -506,7 +607,9 @@ export const windEnergyProjects = [
     name: "Patan Wind Power Project",
     category: "Wind Energy",
     location: "Gujarat",
-    description: "Wind energy project with a 150 MW capacity under construction.",
+    exact_address: "Patan Wind Park, Patan District, Gujarat 384265, India",
+    description:
+      "Wind energy project with a 150 MW capacity under construction.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
     deadline: "2030",
@@ -516,6 +619,8 @@ export const windEnergyProjects = [
     name: "Pali Wind Power Project",
     category: "Wind Energy",
     location: "Rajasthan",
+    exact_address:
+      "Pali Wind Project Site, Pali District, Rajasthan 306401, India",
     description: "200 MW wind power project under construction.",
     budget: "₹1700 Cr - ₹2100 Cr",
     area: "300-400 acres",
@@ -526,6 +631,8 @@ export const windEnergyProjects = [
     name: "Jodhpur Wind Power Project",
     category: "Wind Energy",
     location: "Rajasthan",
+    exact_address:
+      "Jodhpur Wind Farm, Jodhpur District, Rajasthan 342001, India",
     description: "150 MW wind farm project under development.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -536,6 +643,8 @@ export const windEnergyProjects = [
     name: "Sonipat Wind Power Project",
     category: "Wind Energy",
     location: "Haryana",
+    exact_address:
+      "Sonipat Wind Project Site, Sonipat District, Haryana 131001, India",
     description: "Wind project under construction with 100 MW capacity.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -546,6 +655,8 @@ export const windEnergyProjects = [
     name: "Churu Wind Power Project",
     category: "Wind Energy",
     location: "Rajasthan",
+    exact_address:
+      "Churu Wind Project Site, Churu District, Rajasthan 331001, India",
     description: "200 MW wind energy project under development.",
     budget: "₹1700 Cr - ₹2100 Cr",
     area: "300-400 acres",
@@ -556,6 +667,8 @@ export const windEnergyProjects = [
     name: "Ludhiana Wind Power Project",
     category: "Wind Energy",
     location: "Punjab",
+    exact_address:
+      "Ludhiana Wind Project Site, Ludhiana District, Punjab 141001, India",
     description: "Wind energy project under construction with 100 MW capacity.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -566,6 +679,8 @@ export const windEnergyProjects = [
     name: "Sikar Wind Power Project",
     category: "Wind Energy",
     location: "Rajasthan",
+    exact_address:
+      "Sikar Wind Project Site, Sikar District, Rajasthan 332001, India",
     description: "100 MW wind farm under development.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -576,6 +691,8 @@ export const windEnergyProjects = [
     name: "Bidar Wind Power Project",
     category: "Wind Energy",
     location: "Karnataka",
+    exact_address:
+      "Bidar Wind Project Site, Bidar District, Karnataka 585401, India",
     description: "Wind power project with 150 MW capacity under development.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -586,6 +703,7 @@ export const windEnergyProjects = [
     name: "Kutch Wind Power Park",
     category: "Wind Energy",
     location: "Gujarat",
+    exact_address: "Kutch Wind Farms, Kutch District, Gujarat 370421, India",
     description: "Wind farm project with 200 MW capacity under construction.",
     budget: "₹1700 Cr - ₹2100 Cr",
     area: "300-400 acres",
@@ -596,6 +714,8 @@ export const windEnergyProjects = [
     name: "Coimbatore Wind Power Project",
     category: "Wind Energy",
     location: "Tamil Nadu",
+    exact_address:
+      "Coimbatore Wind Farm, Coimbatore District, Tamil Nadu 641001, India",
     description: "150 MW wind farm under construction.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -606,6 +726,8 @@ export const windEnergyProjects = [
     name: "Channarayapatna Wind Power Project",
     category: "Wind Energy",
     location: "Karnataka",
+    exact_address:
+      "Channarayapatna Wind Farm, Hassan District, Karnataka 573116, India",
     description: "Wind energy project with 100 MW capacity under construction.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -616,6 +738,8 @@ export const windEnergyProjects = [
     name: "Kurnool Wind Power Park",
     category: "Wind Energy",
     location: "Andhra Pradesh",
+    exact_address:
+      "Kurnool Wind Park, Kurnool District, Andhra Pradesh 518001, India",
     description: "A wind farm with 200 MW capacity under development.",
     budget: "₹1700 Cr - ₹2100 Cr",
     area: "300-400 acres",
@@ -626,6 +750,8 @@ export const windEnergyProjects = [
     name: "Bhopal Wind Power Project",
     category: "Wind Energy",
     location: "Madhya Pradesh",
+    exact_address:
+      "Bhopal Wind Project Site, Bhopal District, Madhya Pradesh 462001, India",
     description: "Wind power project under construction with 100 MW capacity.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -636,6 +762,8 @@ export const windEnergyProjects = [
     name: "Belagavi Wind Power Project",
     category: "Wind Energy",
     location: "Karnataka",
+    exact_address:
+      "Belagavi Wind Farm, Belagavi District, Karnataka 590001, India",
     description: "Wind energy project with 150 MW capacity under development.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -646,6 +774,8 @@ export const windEnergyProjects = [
     name: "Tumkur Wind Power Project",
     category: "Wind Energy",
     location: "Karnataka",
+    exact_address:
+      "Tumakuru Wind Farm, Tumakuru District, Karnataka 572101, India",
     description: "Wind power project under development with 100 MW capacity.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -656,6 +786,8 @@ export const windEnergyProjects = [
     name: "Haridwar Wind Power Project",
     category: "Wind Energy",
     location: "Uttarakhand",
+    exact_address:
+      "Haridwar Wind Project Site, Haridwar District, Uttarakhand 249401, India",
     description: "A 150 MW wind energy project under construction.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -666,6 +798,8 @@ export const windEnergyProjects = [
     name: "Jaisalmer Wind Power Project",
     category: "Wind Energy",
     location: "Rajasthan",
+    exact_address:
+      "Suzlon Wind Farm, Amarsagar, Jaisalmer District, Rajasthan 345001, India",
     description: "A wind farm with 200 MW capacity under development.",
     budget: "₹1700 Cr - ₹2100 Cr",
     area: "300-400 acres",
@@ -676,6 +810,7 @@ export const windEnergyProjects = [
     name: "Erode Wind Power Project",
     category: "Wind Energy",
     location: "Tamil Nadu",
+    exact_address: "Erode Wind Farm, Erode District, Tamil Nadu 638001, India",
     description: "100 MW wind farm project under construction.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -686,6 +821,8 @@ export const windEnergyProjects = [
     name: "Barmer Wind Power Project",
     category: "Wind Energy",
     location: "Rajasthan",
+    exact_address:
+      "Barmer Wind Project Site, Barmer District, Rajasthan 344001, India",
     description: "150 MW wind energy project under construction.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -696,6 +833,8 @@ export const windEnergyProjects = [
     name: "Ahmedabad Wind Power Project",
     category: "Wind Energy",
     location: "Gujarat",
+    exact_address:
+      "Ahmedabad Wind Project Site, Ahmedabad District, Gujarat 380001, India",
     description: "A 100 MW wind energy project under development.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -706,6 +845,8 @@ export const windEnergyProjects = [
     name: "Guntur Wind Power Project",
     category: "Wind Energy",
     location: "Andhra Pradesh",
+    exact_address:
+      "Guntur Wind Project Site, Guntur District, Andhra Pradesh 522002, India",
     description: "A wind farm with 150 MW capacity under construction.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -716,6 +857,7 @@ export const windEnergyProjects = [
     name: "Kolar Wind Power Project",
     category: "Wind Energy",
     location: "Karnataka",
+    exact_address: "Kolar Wind Farm, Kolar District, Karnataka 563101, India",
     description: "A wind power project under development with 200 MW capacity.",
     budget: "₹1700 Cr - ₹2100 Cr",
     area: "300-400 acres",
@@ -726,6 +868,8 @@ export const windEnergyProjects = [
     name: "Chhattisgarh Wind Power Project",
     category: "Wind Energy",
     location: "Chhattisgarh",
+    exact_address:
+      "Chhattisgarh Wind Project Site, Raipur District, Chhattisgarh 492001, India",
     description: "100 MW wind power project under development.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -736,6 +880,8 @@ export const windEnergyProjects = [
     name: "Fatehgarh Wind Power Project",
     category: "Wind Energy",
     location: "Rajasthan",
+    exact_address:
+      "Fatehgarh Wind Farm, Jaisalmer District, Rajasthan 345027, India",
     description: "150 MW wind project under construction.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -746,6 +892,8 @@ export const windEnergyProjects = [
     name: "Bangalore Wind Power Project",
     category: "Wind Energy",
     location: "Karnataka",
+    exact_address:
+      "Bangalore Rural Wind Project Site, Bengaluru Rural District, Karnataka 562110, India",
     description: "A 200 MW wind farm under development.",
     budget: "₹1700 Cr - ₹2100 Cr",
     area: "300-400 acres",
@@ -756,6 +904,8 @@ export const windEnergyProjects = [
     name: "Jharkhand Wind Power Project",
     category: "Wind Energy",
     location: "Jharkhand",
+    exact_address:
+      "Jharkhand Wind Project Site, Ranchi District, Jharkhand 834001, India",
     description: "100 MW wind farm project under construction.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -766,6 +916,8 @@ export const windEnergyProjects = [
     name: "Murshidabad Wind Power Project",
     category: "Wind Energy",
     location: "West Bengal",
+    exact_address:
+      "Murshidabad Wind Project Site, Murshidabad District, West Bengal 742101, India",
     description: "Wind project with 150 MW capacity under construction.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -776,6 +928,8 @@ export const windEnergyProjects = [
     name: "Nanded Wind Power Project",
     category: "Wind Energy",
     location: "Maharashtra",
+    exact_address:
+      "Nanded Wind Project Site, Nanded District, Maharashtra 431601, India",
     description: "Wind farm project with 200 MW capacity under construction.",
     budget: "₹1700 Cr - ₹2100 Cr",
     area: "300-400 acres",
@@ -786,6 +940,8 @@ export const windEnergyProjects = [
     name: "Surat Wind Energy Project",
     category: "Wind Energy",
     location: "Gujarat",
+    exact_address:
+      "Surat Wind Project Site, Surat District, Gujarat 395003, India",
     description: "A wind farm under construction with a 150 MW capacity.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -796,6 +952,8 @@ export const windEnergyProjects = [
     name: "Muzaffarpur Wind Power Project",
     category: "Wind Energy",
     location: "Bihar",
+    exact_address:
+      "Muzaffarpur Wind Project Site, Muzaffarpur District, Bihar 842001, India",
     description: "Wind energy project under development with 100 MW capacity.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -806,6 +964,8 @@ export const windEnergyProjects = [
     name: "Pune Wind Power Project",
     category: "Wind Energy",
     location: "Maharashtra",
+    exact_address:
+      "Pune Wind Project Site, Pune District, Maharashtra 411001, India",
     description: "150 MW wind power project under development.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -816,6 +976,8 @@ export const windEnergyProjects = [
     name: "Jabalpur Wind Power Project",
     category: "Wind Energy",
     location: "Madhya Pradesh",
+    exact_address:
+      "Jabalpur Wind Project Site, Jabalpur District, Madhya Pradesh 482001, India",
     description: "Wind power project under development with 200 MW capacity.",
     budget: "₹1700 Cr - ₹2100 Cr",
     area: "300-400 acres",
@@ -826,6 +988,8 @@ export const windEnergyProjects = [
     name: "Solapur Wind Energy Project",
     category: "Wind Energy",
     location: "Maharashtra",
+    exact_address:
+      "Solapur Wind Farm, Solapur District, Maharashtra 413001, India",
     description: "100 MW wind project under construction.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -836,6 +1000,8 @@ export const windEnergyProjects = [
     name: "Hisar Wind Power Project",
     category: "Wind Energy",
     location: "Haryana",
+    exact_address:
+      "Hisar Wind Project Site, Hisar District, Haryana 125001, India",
     description: "Wind energy project with 150 MW capacity under construction.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -846,6 +1012,8 @@ export const windEnergyProjects = [
     name: "Tumkur Wind Project",
     category: "Wind Energy",
     location: "Karnataka",
+    exact_address:
+      "Tumakuru Wind Farm, Tumakuru District, Karnataka 572101, India",
     description: "100 MW wind energy project under construction.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -856,6 +1024,8 @@ export const windEnergyProjects = [
     name: "Nalgonda Wind Power Project",
     category: "Wind Energy",
     location: "Telangana",
+    exact_address:
+      "Nalgonda Wind Project Site, Nalgonda District, Telangana 508001, India",
     description: "150 MW wind energy project under development.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -866,6 +1036,8 @@ export const windEnergyProjects = [
     name: "Rewa Wind Power Project",
     category: "Wind Energy",
     location: "Madhya Pradesh",
+    exact_address:
+      "Rewa Wind Project Site, Rewa District, Madhya Pradesh 486001, India",
     description: "A wind farm with 100 MW capacity under construction.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -876,6 +1048,8 @@ export const windEnergyProjects = [
     name: "Cuttack Wind Power Project",
     category: "Wind Energy",
     location: "Odisha",
+    exact_address:
+      "Cuttack Wind Project Site, Cuttack District, Odisha 753001, India",
     description: "200 MW wind farm project under construction.",
     budget: "₹1700 Cr - ₹2100 Cr",
     area: "300-400 acres",
@@ -886,7 +1060,10 @@ export const windEnergyProjects = [
     name: "Bikaner Wind Power Project",
     category: "Wind Energy",
     location: "Rajasthan",
-    description: "A wind energy project with 150 MW capacity under development.",
+    exact_address:
+      "Bikaner Wind Project Site, Bikaner District, Rajasthan 334001, India",
+    description:
+      "A wind energy project with 150 MW capacity under development.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
     deadline: "2033",
@@ -896,6 +1073,8 @@ export const windEnergyProjects = [
     name: "Ambala Wind Power Project",
     category: "Wind Energy",
     location: "Haryana",
+    exact_address:
+      "Ambala Wind Project Site, Ambala District, Haryana 134003, India",
     description: "Wind farm with a 100 MW capacity under construction.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -906,6 +1085,8 @@ export const windEnergyProjects = [
     name: "Pithoragarh Wind Energy Project",
     category: "Wind Energy",
     location: "Uttarakhand",
+    exact_address:
+      "Pithoragarh Wind Project Site, Pithoragarh District, Uttarakhand 262501, India",
     description: "A 150 MW wind power project under development.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -916,6 +1097,8 @@ export const windEnergyProjects = [
     name: "Kota Wind Energy Project",
     category: "Wind Energy",
     location: "Rajasthan",
+    exact_address:
+      "Kota Wind Project Site, Kota District, Rajasthan 324001, India",
     description: "Wind power project with 200 MW capacity under construction.",
     budget: "₹1700 Cr - ₹2100 Cr",
     area: "300-400 acres",
@@ -926,6 +1109,8 @@ export const windEnergyProjects = [
     name: "Ratnagiri Wind Power Project",
     category: "Wind Energy",
     location: "Maharashtra",
+    exact_address:
+      "Ratnagiri Wind Project Site, Ratnagiri District, Maharashtra 415612, India",
     description: "Wind farm project with 150 MW capacity under construction.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -936,6 +1121,8 @@ export const windEnergyProjects = [
     name: "Rewari Wind Power Project",
     category: "Wind Energy",
     location: "Haryana",
+    exact_address:
+      "Rewari Wind Project Site, Rewari District, Haryana 123401, India",
     description: "Wind energy project under development with 100 MW.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -946,6 +1133,8 @@ export const windEnergyProjects = [
     name: "Visakhapatnam Wind Power Park",
     category: "Wind Energy",
     location: "Andhra Pradesh",
+    exact_address:
+      "Visakhapatnam Wind Project Site, Visakhapatnam District, Andhra Pradesh 530001, India",
     description: "200 MW wind power park under development.",
     budget: "₹1700 Cr - ₹2100 Cr",
     area: "300-400 acres",
@@ -956,6 +1145,8 @@ export const windEnergyProjects = [
     name: "Bijnor Wind Power Project",
     category: "Wind Energy",
     location: "Uttar Pradesh",
+    exact_address:
+      "Bijnor Wind Project Site, Bijnor District, Uttar Pradesh 246701, India",
     description: "Wind farm under construction with 100 MW capacity.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -966,7 +1157,10 @@ export const windEnergyProjects = [
     name: "Lucknow Wind Power Project",
     category: "Wind Energy",
     location: "Uttar Pradesh",
-    description: "A wind energy project with 150 MW capacity under construction.",
+    exact_address:
+      "Lucknow Wind Project Site, Lucknow District, Uttar Pradesh 226001, India",
+    description:
+      "A wind energy project with 150 MW capacity under construction.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
     deadline: "2032",
@@ -976,6 +1170,8 @@ export const windEnergyProjects = [
     name: "Solan Wind Power Project",
     category: "Wind Energy",
     location: "Himachal Pradesh",
+    exact_address:
+      "Solan Wind Project Site, Solan District, Himachal Pradesh 173212, India",
     description: "Wind project with 100 MW capacity under development.",
     budget: "₹850 Cr - ₹1250 Cr",
     area: "150-200 acres",
@@ -986,6 +1182,8 @@ export const windEnergyProjects = [
     name: "Kanpur Wind Power Project",
     category: "Wind Energy",
     location: "Uttar Pradesh",
+    exact_address:
+      "Kanpur Wind Project Site, Kanpur Nagar District, Uttar Pradesh 208001, India",
     description: "Wind power project with 150 MW under construction.",
     budget: "₹1250 Cr - ₹1700 Cr",
     area: "200-250 acres",
@@ -996,6 +1194,8 @@ export const windEnergyProjects = [
     name: "Varanasi Wind Energy Project",
     category: "Wind Energy",
     location: "Uttar Pradesh",
+    exact_address:
+      "Varanasi Wind Project Site, Varanasi District, Uttar Pradesh 221002, India",
     description: "200 MW wind farm project under construction.",
     budget: "₹1700 Cr - ₹2100 Cr",
     area: "300-400 acres",

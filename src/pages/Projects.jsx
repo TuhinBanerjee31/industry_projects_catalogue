@@ -165,7 +165,7 @@ const Projects = () => {
 
       <div className="overflow-x-auto">
         <table className="w-full border-collapse border border-gray-300">
-          <thead>
+        <thead>
             <tr className="bg-gray-100">
               <th className="border border-gray-300 p-2 text-left">SL No.</th>
               <th className="border border-gray-300 p-2 text-left">Name</th>
@@ -177,12 +177,16 @@ const Projects = () => {
               <th className="border border-gray-300 p-2 text-left">Budget</th>
               <th className="border border-gray-300 p-2 text-left">Deadline</th>
               <th className="border border-gray-300 p-2 text-left">Location</th>
+              {/* Added new table header */}
+              <th className="border border-gray-300 p-2 text-left">
+                Exact Address
+              </th>
             </tr>
           </thead>
           <tbody>
             {filteredData.length > 0 ? (
               filteredData.map((item, index) => (
-                <tr key={item.id || index} className="hover:bg-gray-50">
+                <tr key={item.id} className="hover:bg-gray-50">
                   <td className="border border-gray-300 p-2">{item.id}</td>
                   <td className="border border-gray-300 p-2">{item.name}</td>
                   <td className="border border-gray-300 p-2">
@@ -198,6 +202,10 @@ const Projects = () => {
                   </td>
                   <td className="border border-gray-300 p-2">
                     {item.location}
+                  </td>
+                  {/* Added new table cell for the exact address */}
+                  <td className="border border-gray-300 p-2">
+                    {item.exact_address}
                   </td>
                 </tr>
               ))

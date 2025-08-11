@@ -4,6 +4,8 @@ export const newProjects = [
     name: "Tata Power's 100 MW Solar Plant",
     category: "Solar Energy",
     location: "Nandgaon, Maharashtra",
+    exact_address:
+      "Tata Power Solar Plant, Nandgaon, Nashik District, Maharashtra 423106, India",
     description:
       "A solar power plant intended to supply clean electricity to domestic steel producer Viraj Profiles.",
     budget: "TBD",
@@ -15,6 +17,8 @@ export const newProjects = [
     name: "Gensol's 150 MW Solar Project",
     category: "Solar Energy",
     location: "Maharashtra",
+    exact_address:
+      "Gensol Solar Project Site, Solapur District, Maharashtra 413001, India",
     description:
       "Engineering, procurement, and construction of a 150 MW ground-mounted solar photovoltaic power plant.",
     budget: "₹780 Crore",
@@ -26,6 +30,8 @@ export const newProjects = [
     name: "Tata Power's 26 MW Captive Solar Plant",
     category: "Solar Energy",
     location: "Maharashtra",
+    exact_address:
+      "Neosym Industry Limited Captive Solar Plant, Ahmednagar District, Maharashtra 414001, India",
     description:
       "A 26 MW captive solar plant to supply renewable energy to Neosym Industry Limited.",
     budget: "TBD",
@@ -37,6 +43,8 @@ export const newProjects = [
     name: "Navi Mumbai International Airport",
     category: "Aviation",
     location: "Mumbai",
+    exact_address:
+      "NMIA Project Site, Ulwe, Navi Mumbai, Maharashtra 410206, India",
     description:
       "A greenfield international airport to decongest Mumbai's existing airport.",
     budget: "₹16,700 Crore",
@@ -48,6 +56,8 @@ export const newProjects = [
     name: "Mumbai–Nagpur High-Speed Rail Corridor",
     category: "Railway",
     location: "Mumbai, Nagpur",
+    exact_address:
+      "NHSRCL Project Office, Bandra Kurla Complex, Mumbai, Maharashtra 400051, India",
     description:
       "A proposed 742 km high-speed rail line connecting Mumbai and Nagpur.",
     budget: "TBD",
@@ -59,6 +69,8 @@ export const newProjects = [
     name: "Pune–Nashik Semi High-Speed Rail Line",
     category: "Railway",
     location: "Pune, Nashik",
+    exact_address:
+      "MahaRail Head Office, 1st Floor, GPO Building, Fort, Mumbai, Maharashtra 400001, India",
     description:
       "A 231 km semi high-speed rail project linking Pune and Nashik.",
     budget: "TBD",
@@ -70,6 +82,8 @@ export const newProjects = [
     name: "JSW Group's Green Energy Projects",
     category: "Renewable Energy",
     location: "Mumbai, Pune, Nashik, Nagpur",
+    exact_address:
+      "JSW Group Corporate Office, JSW Centre, Bandra Kurla Complex, Mumbai, Maharashtra 400051, India",
     description:
       "Investment in electric vehicles, batteries, steel manufacturing, and renewable energy projects.",
     budget: "₹300,000 Crore",
@@ -81,6 +95,8 @@ export const newProjects = [
     name: "Adani Power's 6,600 MW Power Supply Project",
     category: "Renewable Energy",
     location: "Maharashtra",
+    exact_address:
+      "Adani Electricity Mumbai Ltd, Devidas Lane, Borivali West, Mumbai, Maharashtra 400103, India",
     description:
       "A joint bid to supply a mix of renewable and thermal power to Maharashtra over 25 years.",
     budget: "TBD",
@@ -92,6 +108,8 @@ export const newProjects = [
     name: "Multi-modal International Cargo Hub (MIHAN)",
     category: "Aviation",
     location: "Nagpur",
+    exact_address:
+      "MIHAN SEZ, near Dr. Babasaheb Ambedkar International Airport, Nagpur, Maharashtra 441108, India",
     description:
       "A project to develop an international cargo hub and Special Economic Zone in Nagpur.",
     budget: "₹2,581 Crore",
@@ -103,6 +121,8 @@ export const newProjects = [
     name: "Chandrapur Greenfield Airport",
     category: "Aviation",
     location: "Maharashtra",
+    exact_address:
+      "Proposed Chandrapur Airport Site, Vislon, Chandrapur District, Maharashtra 442501, India",
     description:
       "A proposed greenfield airport to improve regional connectivity in Chandrapur.",
     budget: "TBD",
@@ -114,6 +134,8 @@ export const newProjects = [
     name: "Mumbai–Nagpur High-Speed Rail Corridor",
     category: "Railway",
     location: "Mumbai, Nagpur, Maharashtra",
+    exact_address:
+      "NHSRCL Project Office, Bandra Kurla Complex, Mumbai, Maharashtra 400051, India",
     description:
       "A proposed 742 km high-speed rail line connecting Mumbai and Nagpur.",
     budget: "TBD",
@@ -125,6 +147,8 @@ export const newProjects = [
     name: "Wardha–Nanded Railway Line",
     category: "Railway",
     location: "Maharashtra",
+    exact_address:
+      "Central Railway Project Office, Wardha Junction, Wardha, Maharashtra 442001, India",
     description:
       "An under-construction 284 km broad-gauge railway line connecting Wardha and Nanded via Yavatmal.",
     budget: "₹3,168 Crore",
@@ -136,6 +160,8 @@ export const newProjects = [
     name: "Aurangabad Industrial City (AURIC)",
     category: "Industrial",
     location: "Aurangabad, Maharashtra",
+    exact_address:
+      "AURIC Hall, Shendra, Chhatrapati Sambhajinagar, Maharashtra 431154, India",
     description:
       "A greenfield industrial smart city spread over 100 sq km, part of the Delhi-Mumbai Industrial Corridor Project.",
     budget: "TBD",
@@ -147,6 +173,8 @@ export const newProjects = [
     name: "Amravati Airport Expansion",
     category: "Aviation",
     location: "Amravati, Maharashtra",
+    exact_address:
+      "Amravati Airport, Belora, Amravati District, Maharashtra 444808, India",
     description:
       "Upgrading the existing airport to handle commercial flights, including runway extension and new terminal construction.",
     budget: "TBD",

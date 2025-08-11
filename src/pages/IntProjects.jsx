@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { internationalProjects } from "../data/internationalProjects";
 
 export default function IntProjects() {
-  // State and filtering logic from the original IntProjects component (unchanged)
+  // State and filtering logic (unchanged)
   const [search, setSearch] = useState("");
   const [category, setCategory] = useState("");
   const [location, setLocation] = useState("");
@@ -17,13 +17,13 @@ export default function IntProjects() {
       (location ? p.location === location : true)
   );
 
-  // JSX structure and styling from the 'Projects' component
   return (
     <div className="p-5 font-sans">
       <h1 className="text-2xl font-bold mb-4 text-center md:text-left">
         International Project Table
       </h1>
       <div className="mb-4 flex flex-col sm:flex-row gap-4">
+        {/* Search and filter inputs (unchanged) */}
         <input
           type="text"
           placeholder="Search by project name..."
@@ -71,6 +71,10 @@ export default function IntProjects() {
               <th className="border border-gray-300 p-2 text-left">Budget</th>
               <th className="border border-gray-300 p-2 text-left">Deadline</th>
               <th className="border border-gray-300 p-2 text-left">Location</th>
+              {/* Added new table header */}
+              <th className="border border-gray-300 p-2 text-left">
+                Exact Address
+              </th>
             </tr>
           </thead>
           <tbody>
@@ -93,11 +97,16 @@ export default function IntProjects() {
                   <td className="border border-gray-300 p-2">
                     {item.location}
                   </td>
+                  {/* Added new table cell for the exact address */}
+                  <td className="border border-gray-300 p-2">
+                    {item.exact_address}
+                  </td>
                 </tr>
               ))
             ) : (
               <tr>
-                <td colSpan={8} className="text-center py-4">
+                {/* Updated colSpan to 9 */}
+                <td colSpan={9} className="text-center py-4">
                   No data found
                 </td>
               </tr>
