@@ -187,7 +187,7 @@ export const otherProjects = [
   },
   {
     id: 16,
-    name: "East Coast Economic Corridor (ECIC)",
+    name: "East Coast Economic Corridor (ECEC)",
     category: "Industrial Infrastructure",
     location: "Odisha, Andhra Pradesh, Tamil Nadu",
     exact_address: "IDCO Towers, Janpath, Bhubaneswar, Odisha 751022, India",

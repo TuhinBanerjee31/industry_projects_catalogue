@@ -3536,4 +3536,40 @@ export const allCertificatesData = [
     MandatoryCert2: "Tableau Desktop Certified Professional",
     Optional: "Cloud Professional Data Engineer",
   },
+  {
+    Designation: "oil testing & sampling",
+    Department: "",
+    MandatoryCert1: "Oil Condition Monitoring (OCM) Certification",
+    MandatoryCert2: "Chemical Laboratory Technician Certification",
+    Optional: "Petroleum Laboratory Technician Certification",
+  },
+  {
+    Designation: "CNC MILLING SUPERVISOR",
+    Department: "PRODUCTION",
+    MandatoryCert1: "Certified CNC Machinist",
+    MandatoryCert2: "Advanced Machining & Manufacturing Certification",
+    Optional: "Lean Manufacturing Certification",
+  },
+  {
+    Designation: "Team manager",
+    Department: "business development",
+    MandatoryCert1: "Certified Professional in Business Development (CPBD)",
+    MandatoryCert2: "Strategic Sales Management Certification",
+    Optional: "Key Account Management (KAM) Certification",
+  },
+  {
+    Designation: "Assistant Vice president",
+    Department: "financial planning analysis, statutory, taxation",
+    MandatoryCert1: "Chartered Financial Analyst (CFA)",
+    MandatoryCert2: "Certified Management Accountant (CMA)",
+    Optional: "Financial Risk Manager (FRM)",
+  },
+  {
+    Designation: "SCADA AND BMS ENGINEER",
+    Department: "SCADA AND BMS (data analytics)",
+    MandatoryCert1: "Certified Automation Professional (CAP)",
+    MandatoryCert2:
+      "Certified Data Analytics Professional for Industrial Systems",
+    Optional: "Certified SCADA Security Architect (CSSA)",
+  },
 ];

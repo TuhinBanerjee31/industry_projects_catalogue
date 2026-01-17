@@ -192,7 +192,7 @@ export const newProjects = [
       "Expansion of Numaligarh Refinery's capacity from 3 MMTPA to 9 MMTPA, including new crude oil pipelines and product terminals.",
     budget: "₹28,026 Crore",
     area: "5.0 sq km",
-    deadline: "2025",
+    deadline: "2027",
   },
   {
     id: 376,
@@ -218,7 +218,7 @@ export const newProjects = [
       "Construction of a state-of-the-art terminal with modern passenger amenities, increasing annual handling capacity to 10 million passengers.",
     budget: "₹1,232 Crore",
     area: "0.56 sq km",
-    deadline: "2024",
+    deadline: "2027",
   },
   {
     id: 378,
@@ -244,7 +244,7 @@ export const newProjects = [
       "Implementation of smart roads, LED street lighting, integrated traffic management, and riverfront development under the Smart Cities Mission.",
     budget: "₹1,000 Crore",
     area: "10 sq km",
-    deadline: "2025",
+    deadline: "2027",
   },
   {
     id: 380,
@@ -257,7 +257,7 @@ export const newProjects = [
       "5.46 km broad-gauge line connecting Agartala in India to Akhaura in Bangladesh to boost cross-border trade and travel.",
     budget: "₹972 Crore",
     area: "0.84 sq km",
-    deadline: "2024",
+    deadline: "2027",
   },
   {
     id: 381,
@@ -309,7 +309,7 @@ export const newProjects = [
       "Part of a 1,656 km pipeline network connecting northeastern states to the national gas grid for industrial and domestic supply.",
     budget: "₹9,265 Crore",
     area: "200 sq km",
-    deadline: "2025",
+    deadline: "2027",
   },
   {
     id: 385,
@@ -322,7 +322,7 @@ export const newProjects = [
       "Development of eco-friendly resorts, safari facilities, and interpretation centres to boost sustainable tourism in Kaziranga.",
     budget: "₹320 Crore",
     area: "15 sq km",
-    deadline: "2025",
+    deadline: "2027",
   },
   {
     id: 386,
@@ -348,7 +348,7 @@ export const newProjects = [
       "Preservation and promotion of the rock-cut sculptures and carvings at Unakoti with improved visitor facilities.",
     budget: "₹150 Crore",
     area: "2.5 sq km",
-    deadline: "2025",
+    deadline: "2027",
   },
   {
     id: 388,
@@ -387,6 +387,6 @@ export const newProjects = [
       "Restoration of Sonbeel Lake ecosystem with wetland conservation, flood control measures, and eco-tourism facilities.",
     budget: "₹280 Crore",
     area: "25 sq km",
-    deadline: "2025",
+    deadline: "2027",
   }
 ];
